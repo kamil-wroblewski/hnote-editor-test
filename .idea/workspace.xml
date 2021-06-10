@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94d9c785-1c63-4fc6-94bd-39b455fd016d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Main/components/tilesrow.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Main/components/tilesrow.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Main/components/ui.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Main/components/ui.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Mindmap/components/mindmap_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Mindmap/components/mindmap_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Singup/components/body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Singup/components/body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1teUSyIeTKjqv8efVbbYzJntcuE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94d9c785-1c63-4fc6-94bd-39b455fd016d" name="Default Changelist" comment="" />
+      <created>1623129051221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623129051221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="189" key="#Intentions" timestamp="1623320723516">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="312" y="189" key="#Intentions/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623320723516" />
+    <state x="386" y="246" key="AndroidProcessChooserDialog" timestamp="1623221315203">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="386" y="246" key="AndroidProcessChooserDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623221315203" />
+    <state x="502" y="398" key="Github.CreatePullRequestDialog" timestamp="1623348676752">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="502" y="398" key="Github.CreatePullRequestDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623348676752" />
+    <state width="1351" height="165" key="GridCell.Tab.0.bottom" timestamp="1623325398135">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1351" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623325398135" />
+    <state width="1351" height="165" key="GridCell.Tab.0.center" timestamp="1623325398135">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1351" height="165" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623325398135" />
+    <state width="1351" height="165" key="GridCell.Tab.0.left" timestamp="1623325398135">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1351" height="165" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623325398135" />
+    <state width="1351" height="165" key="GridCell.Tab.0.right" timestamp="1623325398135">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1351" height="165" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623325398135" />
+    <state x="-1511" y="44" width="1093" height="935" key="dock-window-1" timestamp="1623259313540">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1511" y="44" width="1093" height="935" key="dock-window-1/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623259313540" />
+    <state x="349" y="216" width="1093" height="737" key="dock-window-2" timestamp="1623258961831">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="349" y="216" width="1093" height="737" key="dock-window-2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623258961831" />
+    <state x="368" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1623320278935">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="368" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1623320278935" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+Po dodaniu assets - console: flutter packages get
+dodanie svg - console: flutter pub pub add flutter_svg
+flutter run --verbose
